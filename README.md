@@ -1,7 +1,7 @@
 # Landing page made with Tailwind css and Vue js.
 
 ## Local Installation
-- `` git clone https://github.com/FahimAnzamDip/vue-landing-page.git ``
+- `` git clone git@github.com:campanellajuan14/vue-landing-page.git ``
 - `` cd /path/to/project ``
 - `` npm install ``
 - `` npm run dev ``
